@@ -1,0 +1,12 @@
+.about {
+  animation-duration: 1000ms;
+  animation-timing-function: ease;
+  animation-delay: 0ms;
+  animation-name: animation-1rg2aqu;
+  animation-direction: normal;
+  animation-fill-mode: both;
+  animation-iteration-count: 1;
+}
+.animate-text {
+  animation: text 5s ease infinite;
+}

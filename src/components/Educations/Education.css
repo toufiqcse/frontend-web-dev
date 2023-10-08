@@ -1,0 +1,24 @@
+.education-box {
+  flex: 1 1 20rem;
+  margin-left: 2rem;
+  /* padding: 1.5rem; */
+  padding-left: 1rem;
+  padding-bottom: 2rem;
+  border-left: 0.1rem solid #5dc418;
+  position: relative;
+}
+
+.education-box i {
+  height: 4.5 rem;
+  width: 4.5 rem;
+  line-height: 5.5 rem;
+  font-size: 1.7rem;
+  background: rgb(93, 196, 24);
+  color: white;
+  border-radius: 50%;
+  text-align: center;
+  position: absolute;
+  top: -2px;
+  left: -2rem;
+  padding: 10px;
+}
